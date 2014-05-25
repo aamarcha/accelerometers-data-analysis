@@ -53,7 +53,7 @@ the average of standard deviations of 3-axial body acceleration signal (time dom
 
 the average of means of  3-axial gravity acceleration signal (time domain for t)  
 
-**tGravityAccStdX** 
+**tGravityAccStdX**           
 **tGravityAccStdY** 
 **tGravityAccStdZ**
 
