@@ -47,32 +47,32 @@ the average of means of 3-axial body acceleration signal (time domain for t)
 
 the average of standard deviations of 3-axial body acceleration signal (time domain for t)              
 
-**tGravityAccMeanX**
+**tGravityAccMeanX**   
 **tGravityAccMeanY**         
 **tGravityAccMeanZ**
 
 the average of means of  3-axial gravity acceleration signal (time domain for t)  
 
 **tGravityAccStdX** 
-**tGravityAccStdY**
+**tGravityAccStdY** 
 **tGravityAccStdZ**
 
 the average of standard deviations of 3-axial gravity acceleration signal(time domain for t)           
 
-**tBodyAccJerkMeanX**
-**tBodyAccJerkMeanY**
+**tBodyAccJerkMeanX**         
+**tBodyAccJerkMeanY**         
 **tBodyAccJerkMeanZ**
 
 the average of means of 3-axial body Jerk signal (time domain for t)  
 
-**tBodyAccJerkStdX**
+**tBodyAccJerkStdX**          
 **tBodyAccJerkStdY**         
 **tBodyAccJerkStdZ**
 
 the average of standard deviations of 3-axial body Jerk signal (time domain for t)  
 
-**tBodyGyroMeanX**
-**tBodyGyroMeanY**
+**tBodyGyroMeanX**  
+**tBodyGyroMeanY**  
 **tBodyGyroMeanZ**
 
 the average of means of 3-axial body gyroscope signal (time domain for t)  
@@ -159,7 +159,7 @@ the average of standard deviations of body gyroscope Jerk magnitude signal (time
 **fBodyBodyAccJerkMagStd**   
 **fBodyBodyGyroMagMean**    
 **fBodyBodyGyroMagStd**      
-**fBodyBodyGyroJerkMagMean** 
+**fBodyBodyGyroJerkMagMean**  
 **fBodyBodyGyroJerkMagStd**
 
 the same variables as above applied to frequency domain (f)
