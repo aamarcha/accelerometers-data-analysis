@@ -24,91 +24,115 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 # Variables
 
 **ActivityID**  
+
 the activity ID performed by each person: 1,2,3,4,5,6 
 
 **ActivityName**  
+
 the activity name performed by each person. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
           
 **SubjectID**     
+
 the subject ID of who performed the activity for each window sample.
 
 **tBodyAccMeanX**  
 **tBodyAccMeanY**  
-**tBodyAccMeanZ**   
+**tBodyAccMeanZ**
+
 the average of means of 3-axial body acceleration signal (time domain for t)      
+
 **tBodyAccStdX**  
 **tBodyAccStdY**   
 **tBodyAccStdZ**
+
 the average of standard deviations of 3-axial body acceleration signal (time domain for t)              
 
 **tGravityAccMeanX**
 **tGravityAccMeanY**         
 **tGravityAccMeanZ**
+
 the average of means of  3-axial gravity acceleration signal (time domain for t)  
 
 **tGravityAccStdX** 
 **tGravityAccStdY**
 **tGravityAccStdZ**
+
 the average of standard deviations of 3-axial gravity acceleration signal(time domain for t)           
 
 **tBodyAccJerkMeanX**
 **tBodyAccJerkMeanY**
 **tBodyAccJerkMeanZ**
+
 the average of means of 3-axial body Jerk signal (time domain for t)  
 
 **tBodyAccJerkStdX**
 **tBodyAccJerkStdY**         
 **tBodyAccJerkStdZ**
+
 the average of standard deviations of 3-axial body Jerk signal (time domain for t)  
 
 **tBodyGyroMeanX**
 **tBodyGyroMeanY**
 **tBodyGyroMeanZ**
+
 the average of means of 3-axial body gyroscope signal (time domain for t)  
 
 **tBodyGyroStdX**            
 **tBodyGyroStdY**           
 **tBodyGyroStdZ**
+
 the average of standard deviations of 3-axial body gyroscope signal (time domain for t)
 
 **tBodyGyroJerkMeanX**       
 **tBodyGyroJerkMeanY**       
 **tBodyGyroJerkMeanZ**
+
 the average of means of 3-axial body gyroscope Jerk signal (time domain for t)
 
 **tBodyGyroJerkStdX**        
 **tBodyGyroJerkStdY**        
 **tBodyGyroJerkStdZ**
+
 the average of standard deviations of 3-axial body gyroscope Jerk signal (time domain for t)
 
 **tBodyAccMagMean**
+
 the average of means of body acceleration  magnitude signal (time domain for t)
 
 **tBodyAccMagStd**
+
 the average of standard deviations of body acceleration  magnitude signal (time domain for t)
 
 **tGravityAccMagMean**
+
 the average of means of gravity acceleration  magnitude signal (time domain for t)
 
 **tGravityAccMagStd**
+
 the average of standard deviations of gravity acceleration  magnitude signal (time domain for t)
 
 **tBodyAccJerkMagMean**
+
 the average of means of body acceleration Jerk magnitude signal (time domain for t)
 
 **tBodyAccJerkMagStd**
+
 the average of standard deviations of body acceleration Jerk magnitude signal (time domain for t)
 
 **tBodyGyroMagMean**
+
 the average of means of body gyroscope magnitude signal (time domain for t)
 
 **tBodyGyroMagStd**
+
 the average of standard deviations of body gyroscope magnitude signal (time domain for t)
 
 **tBodyGyroJerkMagMean**
+
 the average of means of body gyroscope Jerk magnitude signal (time domain for t)
 
 **tBodyGyroJerkMagStd**
+
 the average of standard deviations of body gyroscope Jerk magnitude signal (time domain for t)
 
 **fBodyAccMeanX**            
@@ -137,4 +161,5 @@ the average of standard deviations of body gyroscope Jerk magnitude signal (time
 **fBodyBodyGyroMagStd**      
 **fBodyBodyGyroJerkMagMean** 
 **fBodyBodyGyroJerkMagStd**
+
 the same variables as above applied to frequency domain (f)
